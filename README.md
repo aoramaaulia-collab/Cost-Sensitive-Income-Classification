@@ -2,8 +2,6 @@
 Klasifikasi income menggunakan XGBoost dengan optimasi threshold dan analisis expected loss untuk mendukung pengambilan keputusan kredit berbasis risiko.
 
 
-# Cost-Sensitive Income Classification
-
 ### Risk-Based Lending Use Case
 
 ## 1. Problem Framing
